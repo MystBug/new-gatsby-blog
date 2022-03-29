@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1f11635-af0b-48b6-bc81-c5518c9d4842/deploy-status)](https://app.netlify.com/sites/shimmering-kashata-3819fe/deploys)
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
